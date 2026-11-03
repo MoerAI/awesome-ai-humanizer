@@ -1,4 +1,4 @@
-# Awesome AI Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Humanizer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated, country-by-country guide to open-source **"humanizer" / anti-AI-slop writing skills**: repos that help AI-written text read like natural, native writing in each language.
 
